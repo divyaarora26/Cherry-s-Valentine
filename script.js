@@ -20,7 +20,7 @@ const LETTER = [
   "I love your smile, your eyes and the whole you baby.",
   "Lucky to call you mine.",
   "I love you, always and forever ♾️",
-  "Always be MY Muse baby",
+  "Always be MY Muse baby 😘",
   "Your Daddy"
 ];
 
