@@ -13,12 +13,14 @@ const photosBox = document.getElementById("photos");
 const photo = document.getElementById("photo");
 
 const LETTER = [
+  "Dear Girlfriend 🍒",
   "I love you so much more than I could ever fully explain and being with you is one of the greatest gifts in my life.",
   "You mean everything to me.",
   "You are incredibly beautiful and absolutely gorgeous inside and out.",
   "I love your smile, your eyes and the whole you baby.",
   "Lucky to call you mine.",
   "I love you, always and forever ♾️",
+  "Always be MY Muse baby",
   "Your Daddy"
 ];
 
